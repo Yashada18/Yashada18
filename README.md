@@ -1,6 +1,6 @@
 # Hi there, I'm Yashada! 👋
 
-🌟 Software Developer | Web Designer | Tech Enthusiast
+🌟BE Student | Web Designer | Tech Enthusiast
 
 ---
 
