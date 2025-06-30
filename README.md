@@ -11,7 +11,7 @@
   - Email: [yashadajagtap18@gmail.com](mailto:yashadajagtap18@gmail.com)  
   - LinkedIn: [www.linkedin.com/in/yashadajagtap](https://www.linkedin.com/in/yashadajagtap)
 - Pronouns: she/her  
-- 
+  
 
 ---
 
