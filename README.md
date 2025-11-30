@@ -12,7 +12,7 @@
 
 ---
 
-```bash
+```
 > status
 learning · designing · building
 Skills
@@ -39,9 +39,18 @@ AI-assisted creativity & workflows
 
 Systems thinking in product design
 
-Activity Overview
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yashada18&theme=date_night)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yashada18&theme=date_night)
+### Activity Overview
+
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yashada18&theme=date_night)
+
+| Languages | Commit Distribution |
+|-----------|---------------------|
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yashada18&theme=date_night) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yashada18&theme=date_night) |
+
+| Stats | Productivity Timeline |
+|--------|-----------------------|
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yashada18&theme=date_night) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yashada18&theme=date_night&utcOffset=8) |
+
 
 Contact
 
@@ -59,4 +68,5 @@ Palette:
 Typeface: Inter / SF Pro / JetBrains Mono  
 Tone: Structured · Intentional · Minimal
 
-<p align="center" style="opacity:0.7;"> "Precision in design is clarity in thinking." </p> ```
+<p align="center" style="opacity:0.7;"> "Precision in design is clarity in thinking." </p>
+```
