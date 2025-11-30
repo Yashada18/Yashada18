@@ -41,7 +41,8 @@ learning · designing · building
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yashada18&theme=date_night)
 
-|![Stats ](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yashada18&theme=date_night) |
+![Stats ](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yashada18&theme=date_night)
+
 
 Contact
 
