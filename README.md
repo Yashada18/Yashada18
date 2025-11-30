@@ -13,7 +13,6 @@
 ---
 
 
-> status
 learning · designing · building
 
 ## Skills
@@ -46,6 +45,7 @@ learning · designing · building
 
 Contact
 
-Email — yashadajagtap18@gmail.com
-LinkedIn — linkedin.com/in/yashadajagtap
+Email: yashadajagtap18@gmail.com
+
+LinkedIn: https://linkedin.com/in/yashadajagtap
 
