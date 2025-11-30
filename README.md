@@ -12,32 +12,30 @@
 
 ---
 
-
+```bash
 > status
 learning · designing · building
-Skills
 
-Programming
-C · C++ · Python · JavaScript
+## Skills
 
-Web
-HTML · CSS · Bootstrap · Wix Studio
+### Programming
+![C](https://img.shields.io/badge/C-0D1117?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-0D1117?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat&logo=javascript&logoColor=white)
 
-Design
-Figma · Canva (Wireframing · Prototyping · User Research)
+### Web
+![HTML](https://img.shields.io/badge/HTML5-0D1117?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-0D1117?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=flat&logo=bootstrap&logoColor=white)
+![Wix Studio](https://img.shields.io/badge/Wix_Studio-0D1117?style=flat&logo=wix&logoColor=white)
 
-3D
-Blender
+### Design
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=flat&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-0D1117?style=flat&logo=canva&logoColor=white)
 
-Interests
-
-Functional + aesthetic interface design
-
-Modern web architecture & frameworks
-
-AI-assisted creativity & workflows
-
-Systems thinking in product design
+### 3D
+![Blender](https://img.shields.io/badge/Blender-0D1117?style=flat&logo=blender&logoColor=white)
 
 ### Activity Overview
 
@@ -47,26 +45,8 @@ Systems thinking in product design
 |-----------|---------------------|
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yashada18&theme=date_night) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yashada18&theme=date_night) |
 
-| Stats | Productivity Timeline |
-|--------|-----------------------|
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yashada18&theme=date_night) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yashada18&theme=date_night&utcOffset=8) |
-
-
 Contact
 
 Email — yashadajagtap18@gmail.com
 LinkedIn — linkedin.com/in/yashadajagtap
-
-Identity & Aesthetic
-Palette:
-#0D1117 — Background  
-#58A6FF — Accent  
-#C9D1D9 — Text  
-#1F6FEB — Links  
-#30363D — Borders
-
-Typeface: Inter / SF Pro / JetBrains Mono  
-Tone: Structured · Intentional · Minimal
-
-<p align="center" style="opacity:0.7;"> "Precision in design is clarity in thinking." </p>
 
