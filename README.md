@@ -12,7 +12,7 @@
 
 ---
 
-```
+
 > status
 learning · designing · building
 Skills
@@ -69,4 +69,4 @@ Typeface: Inter / SF Pro / JetBrains Mono
 Tone: Structured · Intentional · Minimal
 
 <p align="center" style="opacity:0.7;"> "Precision in design is clarity in thinking." </p>
-```
+
