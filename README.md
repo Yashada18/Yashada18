@@ -12,7 +12,7 @@
 
 ---
 
-```bash
+
 > status
 learning · designing · building
 
@@ -49,4 +49,4 @@ Contact
 
 Email — yashadajagtap18@gmail.com
 LinkedIn — linkedin.com/in/yashadajagtap
-```
+
